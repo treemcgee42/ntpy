@@ -1,0 +1,12 @@
+/Users/ogmalladii/Documents/rust/ntpy/target/debug/deps/notify-5afa148d868d2ac3.rmeta: /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/fsevent.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs
+
+/Users/ogmalladii/Documents/rust/ntpy/target/debug/deps/libnotify-5afa148d868d2ac3.rlib: /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/fsevent.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs
+
+/Users/ogmalladii/Documents/rust/ntpy/target/debug/deps/notify-5afa148d868d2ac3.d: /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/fsevent.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs
+
+/Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/lib.rs:
+/Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/fsevent.rs:
+/Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/null.rs:
+/Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/poll.rs:
+/Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/mod.rs:
+/Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.17/src/debounce/timer.rs:

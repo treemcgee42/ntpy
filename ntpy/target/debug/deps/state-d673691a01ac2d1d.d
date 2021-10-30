@@ -1,0 +1,12 @@
+/Users/ogmalladii/Documents/rust/ntpy/target/debug/deps/state-d673691a01ac2d1d.rmeta: /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/lib.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/ident_hash.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/storage.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/init.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/shim.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/container.rs
+
+/Users/ogmalladii/Documents/rust/ntpy/target/debug/deps/libstate-d673691a01ac2d1d.rlib: /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/lib.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/ident_hash.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/storage.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/init.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/shim.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/container.rs
+
+/Users/ogmalladii/Documents/rust/ntpy/target/debug/deps/state-d673691a01ac2d1d.d: /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/lib.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/ident_hash.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/storage.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/init.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/shim.rs /Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/container.rs
+
+/Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/lib.rs:
+/Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/ident_hash.rs:
+/Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/storage.rs:
+/Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/init.rs:
+/Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/shim.rs:
+/Users/ogmalladii/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/container.rs:
