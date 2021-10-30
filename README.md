@@ -1,0 +1,2 @@
+# ntpy
+Math wiki maker
